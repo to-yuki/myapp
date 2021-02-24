@@ -3,9 +3,9 @@
 $myenv = getenv('MYMESSAGE');
 if (!empty($myenv)) {
   // 環境変数が空でなければ。
-  echo $myenv;
+  echo 'MYMESSAGE ENV : $myenv';
 } else {
   // 環境変数が空ならば
-  echo "MYMESSAGE env not Setting!";
+  echo 'MYMESSAGE ENV not Setting!';
 }
 ?>
