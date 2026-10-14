@@ -1,2 +1,2 @@
 # myapp
-# Test Application Code
+# Test Application Code for GitHub
